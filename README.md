@@ -2,5 +2,5 @@
 * A very simple application used only for trainning purposes.
 
 ## Screenshot
-![Screenshot](images/screenshot.png)
+![Screenshot](Screenshot.png)
 
